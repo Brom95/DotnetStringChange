@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeStringChange", "DotnetStringChange\SafeStringChange.csproj", "{AB74D877-C70B-4874-BCFD-2EAADC754A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeStringChange", "UnsafeStringChange\UnsafeStringChange.csproj", "{118B20A6-BC29-452B-B6A1-A470B58B40A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB74D877-C70B-4874-BCFD-2EAADC754A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB74D877-C70B-4874-BCFD-2EAADC754A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB74D877-C70B-4874-BCFD-2EAADC754A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB74D877-C70B-4874-BCFD-2EAADC754A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118B20A6-BC29-452B-B6A1-A470B58B40A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118B20A6-BC29-452B-B6A1-A470B58B40A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118B20A6-BC29-452B-B6A1-A470B58B40A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118B20A6-BC29-452B-B6A1-A470B58B40A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD545B51-1932-4279-971A-DBFCFA6AD230}
+	EndGlobalSection
+EndGlobal
